@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "minhastack-app",
+    "slug": "snack-0931b842-c539-4feb-89bb-c5b1ca88242a",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.minhastack.com.card"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
